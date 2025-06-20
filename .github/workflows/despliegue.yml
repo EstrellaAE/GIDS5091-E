@@ -35,3 +35,4 @@ jobs:
           user_name: EstrellaAE
           user_email: estrella@users.noreply.github.com
           deploy_branch: gh-pages
+          force_orphan: true

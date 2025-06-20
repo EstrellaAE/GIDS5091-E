@@ -32,7 +32,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+          publish_branch: gh-pages
           user_name: EstrellaAE
-          user_email: estrella@users.noreply.github.com
-          deploy_branch: gh-pages
+          user_email: eaguayoexiga@gmail.com
           force_orphan: true
